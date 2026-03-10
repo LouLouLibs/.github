@@ -20,6 +20,7 @@ Open-source tools for finance research and data workflows. Julia packages and Go
 
 | Package | Description |
 |---|---|
+| [**go-xldiff**](https://github.com/LouLouLibs/go-xldiff) | Compare two Excel sheets and report added, removed, and modified rows. Text, JSON, and CSV output. Pure Go, cross-platform. |
 | [**NickelEval**](https://github.com/LouLouLibs/NickelEval) | Julia FFI bindings for the [Nickel](https://nickel-lang.org/) configuration language. Evaluate Nickel, convert types, export to JSON/TOML/YAML. *Vibe coded.* |
 | [**BazerUtils.jl**](https://github.com/LouLouLibs/BazerUtils.jl) | Configurable logger with per-level file output, module filtering, and multiple formats (`pretty`, `log4j`, `syslog`). |
 
