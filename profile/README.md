@@ -20,7 +20,7 @@ Open-source tools for finance research and data workflows. Julia packages and so
 
 | Package | Description |
 |----|----|
-| [**xl-cli-tools**](https://github.com/LouLouLibs/xl-cli-tools) | View and edit Excel files from the terminal. `xlcat` renders xlsx/xls as markdown tables or CSV; `xlset` modifies cells preserving formatting. Rust, no runtime deps. *Vibe coded.* |
+| [**xl&#8209;cli&#8209;tools**](https://github.com/LouLouLibs/xl-cli-tools) | View and edit Excel files from the terminal. `xlcat` renders xlsx/xls as markdown tables or CSV; `xlset` modifies cells preserving formatting. Rust, no runtime deps. *Vibe coded.* |
 | [**go-xldiff**](https://github.com/LouLouLibs/go-xldiff) | Compare two Excel sheets and report added, removed, and modified rows. Text, JSON, and CSV output. Pure Go, cross-platform. |
 | [**esync**](https://github.com/LouLouLibs/esync) | Watch local files and rsync them to a remote on every change, with a live TUI. Auto-imports `.gitignore`, daemon mode, SSH keepalive. Pure Go. *Vibe coded.* |
 | [**bbtex**](https://github.com/LouLouLibs/bbtex)| Trying to parse LaTeX logs and use applescript to have a good LaTeX IDE in bbedit |
