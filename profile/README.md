@@ -21,6 +21,7 @@ Open-source tools for finance research and data workflows. Julia packages and so
 | Package | Description |
 |----|----|
 | [**dt&#8209;cli&#8209;tools**](https://github.com/LouLouLibs/dt-cli-tools) | View, filter, and diff tabular data files from the terminal. `dtcat` renders as markdown or CSV, `dtfilter` queries and sorts rows, `dtdiff` compares two files (positional or key-based, with float tolerance). CSV, TSV, Parquet, Arrow, JSON, NDJSON, Excel. Rust, no runtime deps. Supersedes `xl-cli-tools` and `go-xldiff`. *Vibe coded.* |
+| [**dictate**](https://github.com/LouLouLibs/dictate) | Local dictation for macOS: record from the terminal or a small menu-bar app, transcribe on the Neural Engine with WhisperKit, get Markdown back with a vocabulary prompt that spells names and jargon right. Swift, Command Line Tools only. *Vibe coded.* |
 | [**esync**](https://github.com/LouLouLibs/esync) | Watch local files and rsync them to a remote on every change, with a live TUI. Auto-imports `.gitignore`, daemon mode, SSH keepalive. Pure Go. *Vibe coded.* |
 | [**bbtex**](https://github.com/LouLouLibs/bbtex)| Trying to parse LaTeX logs and use applescript to have a good LaTeX IDE in bbedit |
 
