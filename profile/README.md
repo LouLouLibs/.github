@@ -24,7 +24,7 @@ Open-source tools for finance research and data workflows. Julia packages and so
 | [**dictate**](https://github.com/LouLouLibs/dictate) | Local dictation for macOS: record from the terminal or a small menu-bar app, transcribe on the Neural Engine with WhisperKit, get Markdown back with a vocabulary prompt that spells names and jargon right. Swift, Command Line Tools only. *Vibe coded.* |
 | [**esync**](https://github.com/LouLouLibs/esync) | Watch local files and rsync them to a remote on every change, with a live TUI. Auto-imports `.gitignore`, daemon mode, SSH keepalive. Pure Go. *Vibe coded.* |
 | [**bbtex**](https://github.com/LouLouLibs/bbtex)| Trying to parse LaTeX logs and use applescript to have a good LaTeX IDE in bbedit |
-| [**bbedit-nickel**](https://github.com/LouLouLibs/bbedit-nickel) | Nickel language support for BBEdit: syntax highlighting for `.ncl` files and language server integration for completion, hover, and diagnostics. Installable BBEdit package. |
+| [**bbedit&#8209;nickel**](https://github.com/LouLouLibs/bbedit-nickel) | Nickel language support for BBEdit: syntax highlighting for `.ncl` files and language server integration for completion, hover, and diagnostics. Installable BBEdit package. |
 
 
 
