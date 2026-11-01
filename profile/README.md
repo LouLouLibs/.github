@@ -20,12 +20,12 @@ Open-source tools for finance research and data workflows. Julia packages and so
 
 | Package | Description |
 |----|----|
-| [**dt&#8209;cli&#8209;tools**](https://github.com/LouLouLibs/dt-cli-tools) | View, filter, and diff tabular data files from the terminal. `dtcat` renders as markdown or CSV, `dtfilter` queries and sorts rows, `dtdiff` compares two files (positional or key-based, with float tolerance). CSV, TSV, Parquet, Arrow, JSON, NDJSON, Excel. Rust, no runtime deps. Supersedes `xl-cli-tools` and `go-xldiff`. *Vibe coded.* |
-| [**dictate**](https://github.com/LouLouLibs/dictate) | Local dictation for macOS: record from the terminal or a small menu-bar app, transcribe on the Neural Engine with WhisperKit, get Markdown back with a vocabulary prompt that spells names and jargon right. Swift, Command Line Tools only. *Vibe coded.* |
-| [**rex&#8209;sessions&#8209;alfred**](https://github.com/LouLouLibs/rex-sessions-alfred) | Alfred workflow to fuzzy-pick any [Rex](https://superlogical.com) terminal tab, local or on remote hosts, with Rex's program icons and a Quick Look preview of each tab's screen. OCaml, Apple silicon. *Vibe coded.* |
-| [**esync**](https://github.com/LouLouLibs/esync) | Watch local files and rsync them to a remote on every change, with a live TUI. Auto-imports `.gitignore`, daemon mode, SSH keepalive. Pure Go. *Vibe coded.* |
-| [**bbtex**](https://github.com/LouLouLibs/bbtex)| Trying to parse LaTeX logs and use applescript to have a good LaTeX IDE in bbedit |
 | [**bbedit&#8209;nickel**](https://github.com/LouLouLibs/bbedit-nickel) | Nickel language support for BBEdit: syntax highlighting for `.ncl` files and language server integration for completion, hover, and diagnostics. Installable BBEdit package. |
+| [**bbtex**](https://github.com/LouLouLibs/bbtex)| Trying to parse LaTeX logs and use applescript to have a good LaTeX IDE in bbedit |
+| [**dictate**](https://github.com/LouLouLibs/dictate) | Local dictation for macOS: record from the terminal or a small menu-bar app, transcribe on the Neural Engine with WhisperKit, get Markdown back with a vocabulary prompt that spells names and jargon right. Swift, Command Line Tools only. *Vibe coded.* |
+| [**dt&#8209;cli&#8209;tools**](https://github.com/LouLouLibs/dt-cli-tools) | View, filter, and diff tabular data files from the terminal. `dtcat` renders as markdown or CSV, `dtfilter` queries and sorts rows, `dtdiff` compares two files (positional or key-based, with float tolerance). CSV, TSV, Parquet, Arrow, JSON, NDJSON, Excel. Rust, no runtime deps. Supersedes `xl-cli-tools` and `go-xldiff`. *Vibe coded.* |
+| [**esync**](https://github.com/LouLouLibs/esync) | Watch local files and rsync them to a remote on every change, with a live TUI. Auto-imports `.gitignore`, daemon mode, SSH keepalive. Pure Go. *Vibe coded.* |
+| [**rex&#8209;sessions&#8209;alfred**](https://github.com/LouLouLibs/rex-sessions-alfred) | Alfred workflow to fuzzy-pick any [Rex](https://superlogical.com) terminal tab, local or on remote hosts, with Rex's program icons and a Quick Look preview of each tab's screen. OCaml, Apple silicon. *Vibe coded.* |
 
 
 
@@ -33,8 +33,8 @@ Open-source tools for finance research and data workflows. Julia packages and so
 
 | Package | Description |
 |---|---|
-| [**NickelEval**](https://github.com/LouLouLibs/NickelEval) | Julia FFI bindings for the [Nickel](https://nickel-lang.org/) configuration language. Evaluate Nickel, convert types, export to JSON/TOML/YAML. *Vibe coded.* |
 | [**BazerUtils.jl**](https://github.com/LouLouLibs/BazerUtils.jl) | Configurable logger with per-level file output, module filtering, and multiple formats (`pretty`, `log4j`, `syslog`). |
+| [**NickelEval**](https://github.com/LouLouLibs/NickelEval) | Julia FFI bindings for the [Nickel](https://nickel-lang.org/) configuration language. Evaluate Nickel, convert types, export to JSON/TOML/YAML. *Vibe coded.* |
 
 
 ### Claude Skills
